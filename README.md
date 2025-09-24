@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=drifter987&logo=discord&label=&color=457ebd&logoColor=white&labelColor=&style=plastic" height="200" width="200" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/drifter987/drifter987/refs/heads/master/icon.svg" height="auto" width="256" alt="logo"  />
 </div>
 
 ###
